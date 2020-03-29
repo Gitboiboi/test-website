@@ -1,0 +1,25 @@
+I"c<hr />
+
+<h1 id="tableau-de-bord-monde--région--département-pour-suivre-lévolution-de-la-maladie-covid-19">Tableau de bord Monde / Région / Département pour suivre l’évolution de la maladie Covid-19</h1>
+
+<p>Visualisation réalisée à partir des remontées de données SPF, ARS et les collectes réalisées par les membres du slack Data Against Covid19.</p>
+
+<p><strong>Product Owner</strong> : Jérôme Hugueny</p>
+
+<p><strong>Objectif</strong> : fournir une base de données monde, département, région</p>
+
+<p><strong>Livrable</strong> : https://tiny.cc/covidfr</p>
+
+<p><strong>Organisation du projet :</strong></p>
+<ul>
+  <li>Microsoft Power Bi</li>
+  <li>Github : https://github.com/opencovid19-fr/data</li>
+  <li>Canaux slack :
+    <ul>
+      <li>wp-dat-data-collection-covid19-fr</li>
+      <li>wp-viz-visualisation-data</li>
+    </ul>
+  </li>
+</ul>
+
+:ET
